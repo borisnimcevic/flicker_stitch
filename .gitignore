@@ -20,7 +20,9 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 ~*.lck
+.history/
 \#auto_saved_files#
+
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -38,3 +40,4 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
