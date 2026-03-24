@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6")
 	(paper "A4")
+	(title_block
+		(title "resistor 0805 stitch breakout board")
+		(date "2026-03-24")
+		(rev "r1")
+		(company "Flicker Stitch")
+	)
 	(lib_symbols
 		(symbol "Device:R_US"
 			(pin_numbers
@@ -412,7 +418,7 @@
 			(uuid "9b53027f-7bd4-482c-9db7-5e47f74d5c14")
 		)
 		(instances
-			(project "flicker_stitch"
+			(project "fs_resistor_0805"
 				(path "/2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6"
 					(reference "R1")
 					(unit 1)
@@ -491,7 +497,7 @@
 			(uuid "ce9e38a5-7dba-439b-97a0-575847ace5d4")
 		)
 		(instances
-			(project "flicker_stitch"
+			(project "fs_resistor_0805"
 				(path "/2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6"
 					(reference "H2")
 					(unit 1)
@@ -570,7 +576,7 @@
 			(uuid "3670eeb2-d599-4b88-8cfb-8e79d25ddef5")
 		)
 		(instances
-			(project "flicker_stitch"
+			(project "fs_resistor_0805"
 				(path "/2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6"
 					(reference "H1")
 					(unit 1)

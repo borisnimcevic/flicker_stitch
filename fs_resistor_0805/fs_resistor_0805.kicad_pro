@@ -224,7 +224,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "r1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "flicker_stitch.kicad_pro",
+    "filename": "fs_resistor_0805.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -640,8 +640,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "flicker_stitch.kicad_sch",
-        "name": "flicker_stitch",
+        "filename": "fs_resistor_0805.kicad_sch",
+        "name": "fs_resistor_0805",
         "uuid": "2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6"
       }
     ],
@@ -651,7 +651,7 @@
   "sheets": [
     [
       "2e247ec3-ce3e-43b1-b05f-8a11fd5b17f6",
-      "flicker_stitch"
+      "fs_resistor_0805"
     ]
   ],
   "text_variables": {},
