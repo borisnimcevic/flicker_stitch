@@ -552,6 +552,17 @@
 		(layer "Edge.Cuts")
 		(uuid "e7d1188e-29e8-4ddb-9a41-064c4e92f1be")
 	)
+	(gr_text "(+)"
+		(at 115.7 61.75 0)
+		(layer "F.SilkS")
+		(uuid "1a1802a9-17bc-4f93-b8ea-40df1d674ad5")
+		(effects
+			(font
+				(size 0.7 0.7)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "@flicker\nstitch"
 		(at 118 61.75 0)
 		(layer "B.SilkS")
