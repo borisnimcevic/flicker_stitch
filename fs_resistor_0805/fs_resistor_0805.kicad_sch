@@ -378,7 +378,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 114.046 68.834 90)
 			(hide yes)
 			(show_name no)
@@ -460,7 +460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom"
 			(at 113.03 82.55 0)
 			(hide yes)
 			(show_name no)

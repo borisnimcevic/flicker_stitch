@@ -153,7 +153,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ee1626e7-623b-462a-8a26-e5fa061913ac")
 		(sheetname "/")
-		(sheetfile "flicker_stitch.kicad_sch")
+		(sheetfile "fs_resistor_0805.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -209,7 +209,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad_TopBottom"
 		(layer "F.Cu")
 		(uuid "b1ed6020-94af-475a-90a6-2c489f64048d")
 		(at 122 60)
@@ -219,7 +219,7 @@
 			(at 0 -2.85 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "dccb38d9-5009-41e8-9570-92ec6ac0f10e")
+			(uuid "246a5b37-ad47-4eb6-8ea3-8f93b3d7825f")
 			(effects
 				(font
 					(size 1 1)
@@ -230,7 +230,7 @@
 		(property "Value" "MountingHole_Pad"
 			(at 0 2.85 0)
 			(layer "F.Fab")
-			(uuid "2524d55d-c2c5-4801-89c6-3cd0c10a3f42")
+			(uuid "8a616953-fc0d-4085-b3c6-6d1b888a3a64")
 			(effects
 				(font
 					(size 1 1)
@@ -242,7 +242,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33fdcec8-b868-4077-8b55-e01c445a6bbd")
+			(uuid "22da0a66-77b1-4509-8372-038310ac7aa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -253,7 +253,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70d0624f-df5d-4508-aa36-a64a5d26b173")
+			(uuid "d6e2dc32-b702-47c0-9d3f-b3d46ffb7e61")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -275,7 +275,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/bee27cbc-1d6d-4dae-8636-089396997e2b")
 		(sheetname "/")
-		(sheetfile "flicker_stitch.kicad_sch")
+		(sheetfile "fs_resistor_0805.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -319,7 +319,7 @@
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 3.8 3.8)
+			(size 2.6 2.6)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
@@ -327,16 +327,36 @@
 			(pinfunction "1_1")
 			(pintype "input")
 			(zone_connect 2)
+			(uuid "6d547791-525b-4b49-92ae-e9ccb9141a7f")
+		)
+		(pad "1" connect circle
+			(at 0 0)
+			(size 3.8 3.8)
+			(layers "F.Cu" "F.Mask")
+			(net "Net-(H2-Pad1)")
+			(pinfunction "1_1")
+			(pintype "input")
+			(zone_connect 2)
 			(uuid "fae27d41-70a8-4dc1-a47c-02696c8b0ada")
+		)
+		(pad "1" connect circle
+			(at 0 0)
+			(size 3.8 3.8)
+			(layers "B.Cu" "B.Mask")
+			(net "Net-(H2-Pad1)")
+			(pinfunction "1_1")
+			(pintype "input")
+			(zone_connect 2)
+			(uuid "01687de9-1ba6-4eb6-8da3-9cf353fb85e3")
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric"
+	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "ee840f0f-8d9d-4ee7-b527-7f81b9fb3626")
 		(at 118 60)
-		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor")
+		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor handsolder")
 		(property "Reference" "R1"
 			(at 0 -1.65 0)
 			(layer "F.SilkS")
@@ -397,7 +417,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/655238c3-a3cd-4f5b-bb87-97d44e380623")
 		(sheetname "/")
-		(sheetfile "flicker_stitch.kicad_sch")
+		(sheetfile "fs_resistor_0805.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -427,8 +447,8 @@
 			(uuid "5b24a982-5f95-4331-8d89-255d8b05a24c")
 		)
 		(fp_rect
-			(start -1.68 -0.95)
-			(end 1.68 0.95)
+			(start -1.85 -0.95)
+			(end 1.85 0.95)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -460,19 +480,19 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
-			(size 1.025 1.4)
+			(at -1 0)
+			(size 1.2 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.208333)
 			(net "Net-(H1-Pad1)")
 			(pintype "passive")
 			(uuid "83dd8c38-db85-4adf-b4ce-79c449adab41")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
-			(size 1.025 1.4)
+			(at 1 0)
+			(size 1.2 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.208333)
 			(net "Net-(H2-Pad1)")
 			(pintype "passive")
 			(uuid "3d8c8b71-5bcf-46f6-8862-2356e8e1d31e")
