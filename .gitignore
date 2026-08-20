@@ -41,3 +41,7 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
+# Fab-house upload archives (derived from the gerbers already committed
+# alongside them - regenerate with `zip -j` before uploading if needed)
+*.zip
+
