@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.0466mm"
+   height="26.080271mm"
+   viewBox="0 0 28.0466 26.080271"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="assets.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="394.91914"
+     inkscape:cy="250.84613"
+     inkscape:window-width="2560"
+     inkscape:window-height="1382"
+     inkscape:window-x="1920"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"><inkscape:page
+       x="0"
+       y="7.0901285e-23"
+       width="28.0466"
+       height="26.080273"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-95.342836,-69.954472)"><path
+       id="path1"
+       style="fill:none;fill-rule:evenodd;stroke:#00d455;stroke-width:0.0968365"
+       d="m 121.6057,70.003414 c -0.26767,0.01359 -0.52879,0.04495 -0.78855,0.11372 h -5.2e-4 l -3.27629,0.527099 c -1.43373,0.230537 -2.8443,0.121407 -4.21524,1.079005 -3.12222,2.09702 -5.1902,1.783612 -7.92613,-0.05168 -1.37729,-0.9239 -2.79028,-0.796731 -4.22455,-1.027327 l -3.277839,-0.527616 c -0.556071,-0.19844 -3.122897,-0.121389 -2.367348,2.475304 l 0.15813,0.861446 c 0.260262,1.418839 0.325806,2.866545 0.19482,4.303097 L 95.6207,80.618305 c -0.142189,1.557864 -0.01262,3.128587 0.382922,4.642094 l 0.3483,1.331701 c 0.343928,1.316083 0.337696,2.699229 -0.01809,4.012158 l -0.699699,2.581755 c -0.167343,0.286927 -0.208178,0.60657 -0.226392,0.929627 0.01601,1.03773 0.861772,1.870606 1.899626,1.870687 0.199204,-2.4e-4 0.39713,-0.03181 0.586527,-0.09354 h 10e-4 l 0.943095,-0.04961 c 1.497931,-0.0789 2.998341,-0.100272 4.497911,-0.06408 l 4.22197,0.101803 c 1.1994,0.02892 2.39934,0.02892 3.59874,0 l 4.22197,-0.101803 c 1.49974,-0.03621 3.00033,-0.01483 4.49843,0.06408 l 1.35341,0.07131 c 1.48473,0.16841 2.65876,-1.308802 1.84428,-2.80193 l -5.2e-4,-5.16e-4 -0.69712,-2.733167 c -0.31438,-1.232386 -0.31438,-2.523974 0,-3.75636 l 0.45217,-1.771468 c 0.31703,-1.242863 0.41686,-2.531171 0.29507,-3.808036 l -0.35088,-3.680396 c -0.11285,-1.184736 -0.0558,-2.37952 0.1695,-3.548103 l 0.22893,-1.188042 v -5.16e-4 c 0.4158,-1.044016 -0.23599,-2.653971 -1.56638,-2.622611 z"
+       inkscape:export-filename="fs_battery_switch/edge_cut.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccccsccccccccccccccccsscsccccccccccccc" /></g></svg>
