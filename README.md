@@ -95,8 +95,8 @@ the polarity of each pad:
 2. Thread the needle with the **needle threader** (see below). If the thread
    won't go, snip the end at a sharp angle to remove loose fibres. Wetting
    the tip helps.
-3. Pull it through until you have about **2 cm** on the short side. This way you can hold it with the
-   same fingers that hold the needle.
+3. Pull it through until you have about **2 cm** on the short side. This way
+   you can hold it with the same fingers that hold the needle.
 4. **Tie a knot** at the long end. This is the anchor that stops the thread
    pulling through.
 
@@ -162,7 +162,8 @@ fabric doesn't pucker.
 
 ## 5. Test it
 
-1. Check the battery is in and the right way up.
+1. Push the **CR2032 coin cell** into the holder on the battery module, with
+   the **+** side facing up. TODO: confirm orientation.
 2. Slide the switch to **ON**.
 3. The LEDs should light or start blinking.
 
@@ -171,7 +172,7 @@ fabric doesn't pucker.
 ## 6. Back stitch: outlining with the black thread
 
 The **black thread** is for decoration only: it draws the outline of the
-graphic, the eyes and the mouth. It does not carry electricity. Use a **back
+alien's head, the eyes and the mouth. It does not carry electricity. Use a **back
 stitch**, which makes a solid, unbroken line.
 
 ### Prepare the thread
@@ -206,8 +207,8 @@ but not tight so the fabric doesn't pucker.
 
 ### Where to stitch
 
-Follow the printed lines on the canvas: the outline of the alien's head, the eyes and
-the mouth. Take care not to stitch over the pads or the conductive thread.
+Follow the printed lines on the canvas: the outline of the alien's head, the
+eyes and the mouth. Take care not to stitch over the pads or the conductive thread.
 
 ### Ending the thread
 
