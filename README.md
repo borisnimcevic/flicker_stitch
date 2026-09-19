@@ -8,7 +8,6 @@ By [@borisnotes](https://borisnotes.com)
 
 ![Finished badge](photos/finished_badge.jpg)
 
-
 ---
 
 ## 1. What's in the bag
@@ -102,7 +101,6 @@ the polarity of each pad:
 
 ### Tying the knot
 
-<!-- Uses the existing photo -->
 ![Simple knot](photos/simple_knot.png)
 
 1. Make a loop around your finger.
