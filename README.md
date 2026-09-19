@@ -135,8 +135,9 @@ up, in a dotted line. It's how you'll draw each "wire".
 Use the **design paper** (item 2) as your map. It shows where everything goes.
 
 1. Lay the design paper next to the canvas, so you can compare them.
-2. Put the **battery module** on the canvas on the left, where the paper shows
-   it, with the switch facing up TODO: confirm.
+2. Put the **battery module** on the **back** of the canvas, on the left where
+   the paper shows it. The coin cell holder must face the **edge** of the
+   canvas. The switch is part of the module, so it goes along with it.
 3. Put one **blinky LED module** in each of the alien's eyes.
 4. Check the **+** and **–** marks against the polarity picture in section 2.
    The **–** pads are at the top and the **+** pads at the bottom.
