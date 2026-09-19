@@ -141,9 +141,6 @@ fabric doesn't pucker.
 
 ### Stitching to a pad
 
-<!-- TODO: photo of thread around a pad -->
-![Stitching to a pad](photos/stitch_pad.jpg)
-
 1. Start with the knot on the **back**, near the first pad.
 2. Bring the needle up through the **hole** in the pad.
 3. Go back down through the same hole, then up again. Do this **2–3 times**,
@@ -153,35 +150,11 @@ fabric doesn't pucker.
    on the canvas.
 5. At the next pad, wrap through the hole **2–3 times** again.
 
-### Step by step: the circuit
-
-Use the dashed lines in the polarity picture above as your guide. Stitch the
-**–** line first, then the **+** line, each with its own piece of conductive
-thread.
-
-**The – line**
-
-1. Start at the battery module's **–** pad (top).
-2. Stitch to the **–** pad of the left eye.
-3. Continue over the top to the **–** pad of the right eye, and finish there.
-
-**The + line**
-
-1. Start at the battery module's **+** pad (bottom).
-2. Stitch to the **+** pad of the left eye.
-3. Continue under the nose to the **+** pad of the right eye, and finish there.
-
 ### Ending a thread
 
 1. Finish with a wrap through the last pad.
 2. Take the needle to the **back**, and tie a double knot close to the fabric.
-3. Trim the tail to ~3 mm, so it can't touch another line.
-4. Optional: dab clear nail polish on the knot to lock it.
-
-### If you run out of thread
-
-Finish it as above and start a new piece **on the same pad**. Overlap the old
-and the new for a few stitches to keep the connection.
+3. Trim the tail, so it can't touch another line.
 
 ---
 
@@ -190,12 +163,3 @@ and the new for a few stitches to keep the connection.
 1. Check the battery is in and the right way up.
 2. Slide the switch to **ON**.
 3. The LEDs should light or start blinking.
-
-### Nothing lights up?
-
-| Problem | Fix |
-|---------|-----|
-| No LEDs at all | Check the battery, and that the switch is on. |
-| One LED is dark | Check it's the right way round, and re-wrap the thread on its pads. |
-| Dim or flickering | A loose contact. Pull the stitches snug, and add another wrap on the pad. |
-| Nothing works, battery warm | **+** and **–** are touching. Look for stray threads, and trim them. |
