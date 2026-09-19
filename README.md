@@ -75,6 +75,8 @@ Follow the lines on the schematic:
 
 ![Polarity and stitch paths](photos/polarity.png)
 
+The design paper in your bag shows this same layout.
+
 The dashed lines are the conductive thread. The red **+** and **–** marks show
 the polarity of each pad:
 
@@ -127,6 +129,18 @@ A **running stitch** is the simplest stitch: the needle goes down, up, down,
 up, in a dotted line. It's how you'll draw each "wire".
 
 ![Running stitch](photos/running_stitch.png)
+
+### Place the parts
+
+Use the **design paper** (item 2) as your map. It shows where everything goes.
+
+1. Lay the design paper next to the canvas, so you can compare them.
+2. Put the **battery module** on the canvas on the left, where the paper shows
+   it, with the switch facing up TODO: confirm.
+3. Put one **blinky LED module** in each of the alien's eyes.
+4. Check the **+** and **–** marks against the polarity picture in section 2.
+   The **–** pads are at the top and the **+** pads at the bottom.
+5. Hold each part still with a finger while you stitch its first pad.
 
 ### The basic motion
 
