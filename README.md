@@ -18,15 +18,16 @@ By [@borisnotes](https://borisnotes.com)
 
 | # | Item | Qty | Notes |
 |---|------|-----|-------|
-| 1 | Embroidered badge canvas | 1 | Credit-card sized |
-| 2 | Needle | 1 | TODO: size / type |
-| 3 | Conductive thread | 1 | TODO: length. Grey and slightly shiny. This is your "wire". |
-| 4 | Coloured thread (red, white, black, peach) | TODO | For decoration only. It does not conduct. |
-| 5 | Green LEDs (with resistor) | TODO | Steady light |
-| 6 | Self-blinking LEDs, fast | TODO | Flash on their own |
-| 7 | Self-blinking LEDs, slow | TODO | Flash on their own |
-| 8 | Battery holder board with switch | 1 | Holds the coin cell |
-| 9 | CR2032 coin cell | 1 | TODO: already installed, or separate? |
+| 1 | Canvas | 1 | Credit-card sized badge canvas |
+| 2 | Design paper | 1 | TODO: what it's for |
+| 3 | Needle | 1 | TODO: size / type |
+| 4 | Needle threader | 1 | Helps get thread through the eye of the needle |
+| 5 | Conductive thread | 1 | TODO: length. Grey and slightly shiny. This is your "wire". |
+| 6 | Outline thread (black) | 1 | For decoration only. It does not conduct. |
+| 7 | Colour thread 1 | 1 | TODO: colour. Decoration only. |
+| 8 | Colour thread 2 | 1 | TODO: colour. Decoration only. |
+| 9 | Battery module with switch | 1 | TODO: is the CR2032 cell included / already installed? |
+| 10 | Blinky LED module | 2 | Blink on their own |
 
 > **Not in the bag, but useful:** good light, a flat table, a small pair of
 > scissors, clear nail polish (optional, for sealing knots).
@@ -49,18 +50,15 @@ In this kit:
 - **Switch** — opens and closes the loop. Off means the loop is open.
 - **Conductive thread** — the wires. Each line of stitching carries current
   from one pad to the next.
-- **LED** — a light that only works **one way round**. Current must go in the
-  **+** side (anode) and out the **–** side (cathode). Put it in backwards and
-  it stays dark (it won't be damaged).
-- **Resistor** — limits the current so the LED doesn't burn out. It is already
-  on the LED board, so you don't need to add one.
-- **Self-blinking LED** — has a tiny chip inside that turns it on and off by
-  itself. It needs no extra parts. It still has a **+** and a **–**.
+- **Blinky LED module** — a light that only works **one way round**. Current
+  must go in the **+** side and out the **–** side. It has a tiny chip inside
+  that turns the LED on and off by itself, and the resistor that protects the
+  LED is already on the module, so you don't need any extra parts.
 
 The loop, in order:
 
 ```
-  battery +  →  switch  →  LED (+ to –)  →  battery –
+  battery +  →  switch  →  blinky LED (+ to –)  →  battery –
 ```
 
 ### Two rules for the thread
