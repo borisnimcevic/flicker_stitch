@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "../../credit_card_embroidery/balccon/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
