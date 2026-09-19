@@ -265,11 +265,15 @@ Finish the picture by adding shading with **colour thread 2**. Use the same
 1. Prepare a new thread exactly as before: about **40 cm**, 2 strands, folded
    in half, with a knot at the end.
 2. Stitch satin stitches with colour thread 2 on the areas you want to shade.
-   TODO: which areas / over or beside colour 1?
+   Make the stitches **different lengths** and slide them in **between** the
+   colour 1 stitches, so the two colours blend into each other, as in the
+   photo below.
 3. Keep the stitches parallel and close together, and stay clear of the pads
    and the conductive thread.
 4. End the thread on the back: pass the needle under a few stitches, tie a
    knot close to the fabric, and trim the tail.
+
+![Shading](photos/shading_tutorial.png)
 
 Your badge is finished.
 
