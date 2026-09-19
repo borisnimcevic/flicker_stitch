@@ -13,9 +13,6 @@ By [@borisnotes](https://borisnotes.com)
 
 ## 1. What's in the bag
 
-<!-- TODO: photo of everything laid out, labelled -->
-![Bag contents](photos/bag_contents.jpg)
-
 | # | Item | Qty |
 |---|------|-----|
 | 1 | Canvas | 1 |
@@ -29,6 +26,8 @@ By [@borisnotes](https://borisnotes.com)
 | 9 | Battery module with switch | 1 |
 | 10 | Blinky LED module | 2 |
 | 11 | Brooch pin | 1 |
+
+![Bag contents, numbered](photos/bag_contents_numbered.png)
 
 > **Not in the bag, but useful:** good light, a flat table, a small pair of
 > scissors, clear nail polish (optional, for sealing knots).
