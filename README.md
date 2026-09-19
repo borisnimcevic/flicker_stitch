@@ -16,18 +16,18 @@ By [@borisnotes](https://borisnotes.com)
 <!-- TODO: photo of everything laid out, labelled -->
 ![Bag contents](photos/bag_contents.jpg)
 
-| # | Item | Qty | Notes |
-|---|------|-----|-------|
-| 1 | Canvas | 1 | Credit-card sized badge canvas |
-| 2 | Design paper | 1 | TODO: what it's for |
-| 3 | Needle | 1 | TODO: size / type |
-| 4 | Needle threader | 1 | Helps get thread through the eye of the needle |
-| 5 | Conductive thread | 1 | TODO: length. Grey and slightly shiny. This is your "wire". |
-| 6 | Outline thread (black) | 1 | For decoration only. It does not conduct. |
-| 7 | Colour thread 1 | 1 | TODO: colour. Decoration only. |
-| 8 | Colour thread 2 | 1 | TODO: colour. Decoration only. |
-| 9 | Battery module with switch | 1 | TODO: is the CR2032 cell included / already installed? |
-| 10 | Blinky LED module | 2 | Blink on their own |
+| # | Item | Qty |
+|---|------|-----|
+| 1 | Canvas | 1 |
+| 2 | Design paper | 1 |
+| 3 | Needle | 1 |
+| 4 | Needle threader | 1 |
+| 5 | Conductive thread | 1 |
+| 6 | Outline thread (black) | 1 |
+| 7 | Colour thread 1 | 1 |
+| 8 | Colour thread 2 | 1 |
+| 9 | Battery module with switch | 1 |
+| 10 | Blinky LED module | 2 |
 
 > **Not in the bag, but useful:** good light, a flat table, a small pair of
 > scissors, clear nail polish (optional, for sealing knots).
@@ -36,30 +36,32 @@ By [@borisnotes](https://borisnotes.com)
 
 ## 2. How the electronics work
 
-<!-- TODO: circuit diagram or photo with the path drawn on it -->
-![Circuit overview](photos/circuit_overview.jpg)
+![Schematic](photos/schematic.png)
 
 Electricity needs a **loop**. It leaves one side of the battery, passes through
 the parts, and comes back to the other side. If the loop is broken anywhere,
 nothing lights up.
 
-In this kit:
+The circuit in this kit is just a battery, a switch and two blinky LEDs:
 
 - **Battery (CR2032)** — the power source, 3 V. It has a **+** side and a
   **–** side.
 - **Switch** — opens and closes the loop. Off means the loop is open.
+- **Blinky LED modules (×2)** — each one has a tiny chip inside that turns its
+  LED on and off by itself. They only work **one way round**: current must go
+  in the **+** side and out the **–** side. The resistor that protects the LED
+  is already on the module, so you don't need any extra parts.
 - **Conductive thread** — the wires. Each line of stitching carries current
   from one pad to the next.
-- **Blinky LED module** — a light that only works **one way round**. Current
-  must go in the **+** side and out the **–** side. It has a tiny chip inside
-  that turns the LED on and off by itself, and the resistor that protects the
-  LED is already on the module, so you don't need any extra parts.
 
-The loop, in order:
+Follow the lines on the schematic:
 
-```
-  battery +  →  switch  →  blinky LED (+ to –)  →  battery –
-```
+1. From the battery **+**, current goes through the **switch**.
+2. After the switch it reaches a junction (the top green dot) that feeds
+   **both LEDs at once**. This is called wiring in *parallel*, so each LED gets
+   the full battery voltage and blinks on its own.
+3. Both LEDs return to the battery **–** through a second junction (the bottom
+   green dot), which closes the loop.
 
 ### Two rules for the thread
 
