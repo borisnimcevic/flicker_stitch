@@ -8,7 +8,6 @@ By [@borisnotes](https://borisnotes.com)
 
 ![Finished badge](photos/finished_badge.jpg)
 
-**Time:** ~TODO min · **Skill level:** beginner · **Tools needed:** scissors
 
 ---
 
