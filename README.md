@@ -221,7 +221,7 @@ but not tight so the fabric doesn't pucker.
 ### Where to stitch
 
 Follow the printed lines on the canvas: the outline of the alien's head, the
-eyes and the mouth. Take care not to stitch over the pads or the conductive thread.
+eyes and the mouth. The outline goes around the shapes, not over the electronics.
 
 ### Ending the thread
 
@@ -231,7 +231,37 @@ eyes and the mouth. Take care not to stitch over the pads or the conductive thre
 
 ---
 
-## 7. Satin stitch: colouring in the alien
+## 7. Filling the eyes and mouth
+
+Once the black **outline** is finished, fill in the eyes and mouth with black.
+Use the **black thread** again, but this time with **2 strands**. Use the same
+**satin stitch** as in the next step.
+
+### Prepare the thread
+
+1. Cut about **40 cm** of black thread.
+2. Pull **2 strands** out together, slowly, and let the others slide free.
+3. Thread the needle with the two strands, and pull them through until both
+   ends are **the same length**. The thread is folded in half, with the
+   **needle on the fold**.
+4. **Tie a knot** in the loose ends. You are now stitching with **4 strands**
+   (2 strands, doubled).
+
+### Fill the shapes
+
+1. Bring the needle **up** at one edge of the eye or mouth, and take it
+   **down** at the opposite edge, straight across the shape.
+2. Repeat with parallel stitches, each one tight against the last, until the
+   shape is filled. The stitches go **over the LED modules and the grey
+   conductive thread** inside the eyes.
+3. Leave the **LED light itself uncovered**, so only the glow shows through
+   the black. Look at the finished badge at the top of this page.
+4. End the thread on the back: pass the needle under a few stitches, tie a
+   knot close to the fabric, and trim the tail.
+
+---
+
+## 8. Satin stitch: colouring in the alien
 
 Now fill the alien's head with colour, using **colour thread 1**. The colour threads
 are for decoration only, like the black thread. Use a **satin stitch**: many straight
@@ -278,7 +308,7 @@ the finished badge at the top of this page to see how it should look.
 
 ---
 
-## 8. Shading with the second colour
+## 9. Shading with the second colour
 
 Finish the picture by adding shading with **colour thread 2**. Use the same
 **satin stitch** as in the last step.
@@ -300,7 +330,7 @@ Your badge is finished.
 
 ---
 
-## 9. Optional: attach the badge
+## 10. Optional: attach the badge
 
 ### As a brooch
 
