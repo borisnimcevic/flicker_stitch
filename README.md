@@ -158,7 +158,15 @@ fabric doesn't pucker.
 
 ---
 
-## 5. Back stitch: outlining with the black thread
+## 5. Test it
+
+1. Check the battery is in and the right way up.
+2. Slide the switch to **ON**.
+3. The LEDs should light or start blinking.
+
+---
+
+## 6. Back stitch: outlining with the black thread
 
 The **black thread** is for decoration only: it draws the outline of the
 graphic, the eyes and the mouth. It does not carry electricity. Use a **back
@@ -168,7 +176,7 @@ stitch**, which makes a solid, unbroken line.
 
 ![Six strands](photos/six_strands.png)
 
-1. Cut about TODO cm of black thread. It is made of **6 thin strands** twisted
+1. Cut about **40 cm** of black thread. It is made of **6 thin strands** twisted
    together.
 2. Hold the end and gently pull **one strand** out. Pull it slowly and let the
    other five slide free, so they don't knot.
@@ -204,11 +212,3 @@ the mouth. Take care not to stitch over the pads or the conductive thread.
 1. Take the needle to the **back**.
 2. Pass it under a few stitches, and tie a knot close to the fabric.
 3. Trim the tail.
-
----
-
-## 6. Test it
-
-1. Check the battery is in and the right way up.
-2. Slide the switch to **ON**.
-3. The LEDs should light or start blinking.
