@@ -90,12 +90,13 @@ the polarity of each pad:
 
 ## 3. Threading the needle
 
-1. **Cut about TODO cm** of conductive thread. Longer is not better; it
+1. **Cut about 20 cm** of conductive thread. Longer is not better; it
    tangles and frays.
 2. Thread the needle with the **needle threader** (see below). If the thread
    won't go, snip the end at a sharp angle to remove loose fibres. Wetting
    the tip helps.
-3. Pull it through until you have about **TODO cm** on the short side.
+3. Pull it through until you have about **2 cm** on the short side. This way you can hold it with the
+   same fingers that hold the needle.
 4. **Tie a knot** at the long end. This is the anchor that stops the thread
    pulling through.
 
