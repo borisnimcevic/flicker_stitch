@@ -28,6 +28,7 @@ By [@borisnotes](https://borisnotes.com)
 | 8 | Colour thread 2 | 1 |
 | 9 | Battery module with switch | 1 |
 | 10 | Blinky LED module | 2 |
+| 11 | Brooch pin | 1 |
 
 > **Not in the bag, but useful:** good light, a flat table, a small pair of
 > scissors, clear nail polish (optional, for sealing knots).
