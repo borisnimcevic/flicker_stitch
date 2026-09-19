@@ -26,6 +26,7 @@ By [@borisnotes](https://borisnotes.com)
 | 9 | Battery module with switch | 1 |
 | 10 | Blinky LED module | 2 |
 | 11 | Brooch pin | 1 |
+| 12 | CR2032 coin cell | 1 |
 
 ![Bag contents, numbered](photos/bag_contents_numbered.png)
 
