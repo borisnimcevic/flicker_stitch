@@ -212,3 +212,40 @@ the mouth. Take care not to stitch over the pads or the conductive thread.
 1. Take the needle to the **back**.
 2. Pass it under a few stitches, and tie a knot close to the fabric.
 3. Trim the tail.
+
+---
+
+## 7. Satin stitch: colouring in the head
+
+The last step is to fill the head with colour. The **colour threads** are for
+decoration only, like the black thread. Use a **satin stitch**: many straight
+stitches laid side by side, so that no fabric shows through.
+
+### Prepare the thread
+
+1. Cut about TODO cm of colour thread.
+2. Take TODO strands out of the 6, and thread the needle. Use the needle
+   threader if you need it.
+3. Tie a knot at the end. TODO: single or doubled thread?
+
+### The satin stitch
+
+![Satin stitch](photos/satin_stitch_tutorial.png)
+
+1. Bring the needle **up** from the back at one edge of the area you are
+   filling.
+2. Take the needle **down** at the opposite edge, straight across the shape.
+3. Bring the needle **up** again right next to where you came up the first
+   time, and go **down** right next to the last hole on the other side.
+4. Repeat, laying each stitch tight against the one before it, until the area
+   is covered.
+
+Keep the stitches parallel and close together, and pull each one snug but not
+tight so the fabric doesn't pucker. Stitch right up to the black outline, and
+take care not to cover the pads or the conductive thread.
+
+### Ending the thread
+
+1. Take the needle to the **back**.
+2. Pass it under a few stitches, and tie a knot close to the fabric.
+3. Trim the tail.
