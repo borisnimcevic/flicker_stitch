@@ -89,13 +89,11 @@ the polarity of each pad:
 
 ## 3. Threading the needle
 
-<!-- TODO: photo -->
-![Threading](photos/threading.jpg)
-
 1. **Cut about TODO cm** of conductive thread. Longer is not better; it
    tangles and frays.
-2. Push the end through the eye of the needle. If it won't go, snip the end
-   at a sharp angle to remove loose fibres. Wetting the tip helps.
+2. Thread the needle with the **needle threader** (see below). If the thread
+   won't go, snip the end at a sharp angle to remove loose fibres. Wetting
+   the tip helps.
 3. Pull it through until you have about **TODO cm** on the short side.
 4. **Tie a knot** at the long end. This is the anchor that stops the thread
    pulling through.
@@ -112,6 +110,14 @@ the polarity of each pad:
 4. Snip off the tail, leaving ~3 mm.
 
 > **Tip:** conductive thread is slippery. Make the knot a double knot.
+
+### Using the needle threader
+
+![Threading the needle](photos/threading_needle.png)
+
+1. Push the wire loop of the threader through the eye of the needle.
+2. Pass the end of the thread through the wire loop.
+3. Pull the threader back out. The thread comes through the eye with it.
 
 ---
 
