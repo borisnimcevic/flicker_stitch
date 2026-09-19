@@ -163,7 +163,7 @@ fabric doesn't pucker.
 ## 5. Test it
 
 1. Push the **CR2032 coin cell** into the holder on the battery module, with
-   the **+** side facing up. TODO: confirm orientation.
+   the **+** side facing up.
 2. Slide the switch to **ON**.
 3. The LEDs should light or start blinking.
 
