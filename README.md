@@ -262,8 +262,13 @@ stitches laid side by side, so that no fabric shows through.
    is covered.
 
 Keep the stitches parallel and close together, and pull each one snug but not
-tight so the fabric doesn't pucker. Stitch right up to the black outline, and
-take care not to cover the pads or the conductive thread.
+tight so the fabric doesn't pucker. Stitch right up to the black outline.
+
+### Cover the electronics
+
+Stitch **over the LED modules and the grey conductive thread**. Cover
+everything **except the LED light itself**, so that only the glow shows. Look at
+the finished badge at the top of this page to see how it should look.
 
 ### Ending the thread
 
@@ -284,8 +289,8 @@ Finish the picture by adding shading with **colour thread 2**. Use the same
    Make the stitches **different lengths** and slide them in **between** the
    colour 1 stitches, so the two colours blend into each other, as in the
    photo below.
-3. Keep the stitches parallel and close together, and stay clear of the pads
-   and the conductive thread.
+3. Keep the stitches parallel and close together. Cover any grey thread that
+   still shows, but leave the LED light uncovered.
 4. End the thread on the back: pass the needle under a few stitches, tie a
    knot close to the fabric, and trim the tail.
 
