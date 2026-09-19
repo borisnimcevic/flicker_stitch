@@ -4,10 +4,9 @@ Stitch a working circuit onto fabric. In this kit you sew small electronics
 onto an embroidered badge using **conductive thread**, and when you flip the
 switch, the LEDs light up.
 
-By [@borisnotes](https://borisnotes.com) · made for **EMF 2026**
+By [@borisnotes](https://borisnotes.com)
 
-<!-- TODO: hero photo of the finished badge -->
-![Finished badge](photos/finished.jpg)
+![Finished badge](photos/finished_badge.jpg)
 
 **Time:** ~TODO min · **Skill level:** beginner · **Tools needed:** scissors
 
