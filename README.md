@@ -71,7 +71,19 @@ Follow the lines on the schematic:
 2. **Every joint needs contact.** The thread has to actually touch the metal
    pad, and be pulled snug against it.
 
-<!-- TODO: add polarity markings here: where is + and – on each board? -->
+### Where everything goes
+
+![Polarity and stitch paths](photos/polarity.png)
+
+The dashed lines are the conductive thread. The red **+** and **–** marks show
+the polarity of each pad:
+
+- The **battery module** sits on the left. Its top pad is **–** and its
+  bottom pad is **+**.
+- The two **blinky LED modules** sit in the alien's eyes. On each one, the
+  top pad is **–** and the bottom pad is **+**.
+- All the **–** pads are joined by one line of thread, and all the **+** pads
+  are joined by another. The two lines never cross or touch.
 
 ---
 
@@ -138,11 +150,21 @@ fabric doesn't pucker.
 
 ### Step by step: the circuit
 
-<!-- TODO: fill in once the canvas layout is final -->
-1. **TODO** — Battery + to switch
-2. **TODO** — Switch to LED +
-3. **TODO** — LED – back to battery –
-4. **TODO** — Repeat for the next LED
+Use the dashed lines in the polarity picture above as your guide. Stitch the
+**–** line first, then the **+** line, each with its own piece of conductive
+thread.
+
+**The – line**
+
+1. Start at the battery module's **–** pad (top).
+2. Stitch to the **–** pad of the left eye.
+3. Continue over the top to the **–** pad of the right eye, and finish there.
+
+**The + line**
+
+1. Start at the battery module's **+** pad (bottom).
+2. Stitch to the **+** pad of the left eye.
+3. Continue under the nose to the **+** pad of the right eye, and finish there.
 
 ### Ending a thread
 
