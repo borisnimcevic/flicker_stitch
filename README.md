@@ -284,9 +284,10 @@ Your badge is finished.
 ### As a brooch
 
 1. Place the **brooch pin** on the back of the badge, near the top.
-2. Sew through each hole of the pin and the canvas with a few tight stitches.
-   TODO: which thread?
-3. Tie a knot on the back, and trim the tail.
+2. Prepare **black thread** as you did for the outline: 1 strand, folded in
+   half, with a knot at the end.
+3. Sew through each hole of the pin and the canvas with a few tight stitches.
+4. Tie a knot on the back, and trim the tail.
 
 ### Or sew it onto something
 
