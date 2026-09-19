@@ -158,7 +158,56 @@ fabric doesn't pucker.
 
 ---
 
-## 5. Test it
+## 5. Back stitch: outlining with the black thread
+
+The **black thread** is for decoration only: it draws the outline of the
+graphic, the eyes and the mouth. It does not carry electricity. Use a **back
+stitch**, which makes a solid, unbroken line.
+
+### Prepare the thread
+
+![Six strands](photos/six_strands.png)
+
+1. Cut about TODO cm of black thread. It is made of **6 thin strands** twisted
+   together.
+2. Hold the end and gently pull **one strand** out. Pull it slowly and let the
+   other five slide free, so they don't knot.
+3. Thread the needle with the single strand (use the needle threader again).
+4. Pull the strand through until both ends are **the same length**. The thread
+   is now doubled: the **needle is on the fold** at one end.
+5. **Tie a knot** in the two loose ends together. Now you have a doubled thread
+   with the needle on one end and the knot on the other.
+
+### The back stitch
+
+![Back stitch](photos/back_stitch_motion.png)
+
+1. Bring the needle **up** from the back, one stitch-length ahead of where you
+   want the line to start (**1**).
+2. Take the needle **down** at the start of the line, going back to meet the
+   previous stitch (**2**). This makes the first stitch.
+3. Bring the needle **up** again, one stitch-length ahead of the last hole
+   (**3**).
+4. Take the needle **down** in the hole where the last stitch ended. Repeat,
+   always stepping forward and then going back.
+
+Keep the stitches short (about 2–3 mm) and the same size. Pull the thread snug
+but not tight so the fabric doesn't pucker.
+
+### Where to stitch
+
+Follow the printed lines on the canvas: the outline of the head, the eyes and
+the mouth. Take care not to stitch over the pads or the conductive thread.
+
+### Ending the thread
+
+1. Take the needle to the **back**.
+2. Pass it under a few stitches, and tie a knot close to the fabric.
+3. Trim the tail.
+
+---
+
+## 6. Test it
 
 1. Check the battery is in and the right way up.
 2. Slide the switch to **ON**.
