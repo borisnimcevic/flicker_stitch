@@ -126,8 +126,7 @@ the polarity of each pad:
 A **running stitch** is the simplest stitch: the needle goes down, up, down,
 up, in a dotted line. It's how you'll draw each "wire".
 
-<!-- TODO: diagram of running stitch -->
-![Running stitch](photos/running_stitch.jpg)
+![Running stitch](photos/running_stitch.png)
 
 ### The basic motion
 
