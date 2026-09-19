@@ -205,7 +205,7 @@ but not tight so the fabric doesn't pucker.
 
 ### Where to stitch
 
-Follow the printed lines on the canvas: the outline of the head, the eyes and
+Follow the printed lines on the canvas: the outline of the alien's head, the eyes and
 the mouth. Take care not to stitch over the pads or the conductive thread.
 
 ### Ending the thread
@@ -216,9 +216,9 @@ the mouth. Take care not to stitch over the pads or the conductive thread.
 
 ---
 
-## 7. Satin stitch: colouring in the head
+## 7. Satin stitch: colouring in the alien
 
-Now fill the head with colour, using **colour thread 1**. The colour threads
+Now fill the alien's head with colour, using **colour thread 1**. The colour threads
 are for decoration only, like the black thread. Use a **satin stitch**: many straight
 stitches laid side by side, so that no fabric shows through.
 
