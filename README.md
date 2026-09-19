@@ -223,10 +223,15 @@ stitches laid side by side, so that no fabric shows through.
 
 ### Prepare the thread
 
-1. Cut about TODO cm of colour thread.
-2. Take TODO strands out of the 6, and thread the needle. Use the needle
-   threader if you need it.
-3. Tie a knot at the end. TODO: single or doubled thread?
+1. Cut about **40 cm** of colour thread. It is made of **6 thin strands**
+   twisted together.
+2. Pull **2 strands** out together, slowly, and let the other four slide free.
+3. Thread the needle with the two strands (use the needle threader if you need
+   it).
+4. Pull the strands through until both ends are **the same length**. The
+   thread is now folded in half, with the **needle on the fold**.
+5. **Tie a knot** in the loose ends. You are now stitching with **4 strands**
+   (2 strands, doubled).
 
 ### The satin stitch
 
