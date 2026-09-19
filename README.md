@@ -217,8 +217,8 @@ the mouth. Take care not to stitch over the pads or the conductive thread.
 
 ## 7. Satin stitch: colouring in the head
 
-The last step is to fill the head with colour. The **colour threads** are for
-decoration only, like the black thread. Use a **satin stitch**: many straight
+Now fill the head with colour, using **colour thread 1**. The colour threads
+are for decoration only, like the black thread. Use a **satin stitch**: many straight
 stitches laid side by side, so that no fabric shows through.
 
 ### Prepare the thread
@@ -254,3 +254,38 @@ take care not to cover the pads or the conductive thread.
 1. Take the needle to the **back**.
 2. Pass it under a few stitches, and tie a knot close to the fabric.
 3. Trim the tail.
+
+---
+
+## 8. Shading with the second colour
+
+Finish the picture by adding shading with **colour thread 2**. Use the same
+**satin stitch** as in the last step.
+
+1. Prepare a new thread exactly as before: about **40 cm**, 2 strands, folded
+   in half, with a knot at the end.
+2. Stitch satin stitches with colour thread 2 on the areas you want to shade.
+   TODO: which areas / over or beside colour 1?
+3. Keep the stitches parallel and close together, and stay clear of the pads
+   and the conductive thread.
+4. End the thread on the back: pass the needle under a few stitches, tie a
+   knot close to the fabric, and trim the tail.
+
+Your badge is finished.
+
+---
+
+## 9. Optional: attach the badge
+
+### As a brooch
+
+1. Place the **brooch pin** on the back of the badge, near the top.
+2. Sew through each hole of the pin and the canvas with a few tight stitches.
+   TODO: which thread?
+3. Tie a knot on the back, and trim the tail.
+
+### Or sew it onto something
+
+You don't need the pin. Sew the badge straight onto a jacket, bag or other
+garment with a running stitch around the edge of the canvas.
+
