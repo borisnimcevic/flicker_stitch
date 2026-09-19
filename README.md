@@ -231,11 +231,37 @@ eyes and the mouth. The outline goes around the shapes, not over the electronics
 
 ---
 
-## 7. Filling the eyes and mouth
+## 7. Satin stitch: the technique
 
-Once the black **outline** is finished, fill in the eyes and mouth with black.
-Use the **black thread** again, but this time with **2 strands**. Use the same
-**satin stitch** as in the next step.
+You will use **satin stitch** to fill in the eyes and mouth, colour in the
+alien, and add the shading. It is many straight stitches laid side by side, so
+that no fabric shows through. Practise the motion here first.
+
+![Satin stitch](photos/satin_stitch_tutorial.png)
+
+1. Bring the needle **up** from the back at one edge of the area you are
+   filling.
+2. Take the needle **down** at the opposite edge, straight across the shape.
+3. Bring the needle **up** again right next to where you came up the first
+   time, and go **down** right next to the last hole on the other side.
+4. Repeat, laying each stitch tight against the one before it, until the area
+   is covered.
+
+Keep the stitches parallel and close together, and pull each one snug but not
+tight so the fabric doesn't pucker.
+
+### Cover the electronics
+
+Stitch **over the LED modules and the grey conductive thread**. Cover
+everything **except the LED light itself**, so that only the glow shows. Look at
+the finished badge at the top of this page to see how it should look.
+
+---
+
+## 8. Filling the eyes and mouth
+
+Once the black **outline** is finished, fill in the eyes and mouth with black
+satin stitch. Use the **black thread** again, but this time with **2 strands**.
 
 ### Prepare the thread
 
@@ -249,23 +275,20 @@ Use the **black thread** again, but this time with **2 strands**. Use the same
 
 ### Fill the shapes
 
-1. Bring the needle **up** at one edge of the eye or mouth, and take it
-   **down** at the opposite edge, straight across the shape.
-2. Repeat with parallel stitches, each one tight against the last, until the
-   shape is filled. The stitches go **over the LED modules and the grey
-   conductive thread** inside the eyes.
-3. Leave the **LED light itself uncovered**, so only the glow shows through
-   the black. Look at the finished badge at the top of this page.
-4. End the thread on the back: pass the needle under a few stitches, tie a
+1. Fill each eye and the mouth with satin stitch. Stitch right up to the
+   outline.
+2. In the eyes, the stitches go **over the LED module and the grey conductive
+   thread**. Leave the **LED light itself uncovered**.
+3. End the thread on the back: pass the needle under a few stitches, tie a
    knot close to the fabric, and trim the tail.
 
 ---
 
-## 8. Satin stitch: colouring in the alien
+## 9. Colouring in the alien
 
-Now fill the alien's head with colour, using **colour thread 1**. The colour threads
-are for decoration only, like the black thread. Use a **satin stitch**: many straight
-stitches laid side by side, so that no fabric shows through.
+Now fill the alien's head with colour, using **colour thread 1**. The colour
+threads are for decoration only, like the black thread. Use the same **satin
+stitch**.
 
 ### Prepare the thread
 
@@ -279,36 +302,17 @@ stitches laid side by side, so that no fabric shows through.
 5. **Tie a knot** in the loose ends. You are now stitching with **4 strands**
    (2 strands, doubled).
 
-### The satin stitch
+### Fill the head
 
-![Satin stitch](photos/satin_stitch_tutorial.png)
-
-1. Bring the needle **up** from the back at one edge of the area you are
-   filling.
-2. Take the needle **down** at the opposite edge, straight across the shape.
-3. Bring the needle **up** again right next to where you came up the first
-   time, and go **down** right next to the last hole on the other side.
-4. Repeat, laying each stitch tight against the one before it, until the area
-   is covered.
-
-Keep the stitches parallel and close together, and pull each one snug but not
-tight so the fabric doesn't pucker. Stitch right up to the black outline.
-
-### Cover the electronics
-
-Stitch **over the LED modules and the grey conductive thread**. Cover
-everything **except the LED light itself**, so that only the glow shows. Look at
-the finished badge at the top of this page to see how it should look.
-
-### Ending the thread
-
-1. Take the needle to the **back**.
-2. Pass it under a few stitches, and tie a knot close to the fabric.
-3. Trim the tail.
+1. Fill the head with satin stitch, right up to the black outline and the
+   filled eyes and mouth.
+2. Cover any grey thread that still shows.
+3. End the thread on the back: pass the needle under a few stitches, tie a
+   knot close to the fabric, and trim the tail.
 
 ---
 
-## 9. Shading with the second colour
+## 10. Shading with the second colour
 
 Finish the picture by adding shading with **colour thread 2**. Use the same
 **satin stitch** as in the last step.
@@ -330,7 +334,7 @@ Your badge is finished.
 
 ---
 
-## 10. Optional: attach the badge
+## 11. Optional: attach the badge
 
 ### As a brooch
 
